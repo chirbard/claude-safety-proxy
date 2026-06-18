@@ -1,0 +1,4 @@
+port = 49733
+ollama_url = "http://localhost:11434"
+model = "qwen3.5:2b"
+max_chunk_chars = 4000
